@@ -1,2 +1,2 @@
 # lakritssajten
-First school project  – Basic HTML &amp; CSS
+School project: Basic HTML & CSS. Simply a website about liquorice.
