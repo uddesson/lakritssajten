@@ -64,7 +64,8 @@ nav a{
 }
 
 .quote_wrapper{
-    background-image: url(lakrits_header.jpg);
+    background-image: url(inte_lakrits.jpg);
+    background-size: cover;
     margin: 0px;
     padding: 180px;
 }
@@ -131,7 +132,7 @@ hr{
     text-decoration: underline;
 }
 .article_img1{
-    background-image: url(artikel_lakrits1.jpg);
+    background-image: url(inte_lakrits.jpg);
     float: right;
     width: 320px;
     height: 150px;
@@ -141,7 +142,7 @@ hr{
     margin-bottom: 20px;   
 }
 .article_img2{
-    background-image: url(artikel_lakrits2.jpg);
+    background-image: url(inte_lakrits.jpg);
     float: right;
     width: 320px;
     height: 150px;
